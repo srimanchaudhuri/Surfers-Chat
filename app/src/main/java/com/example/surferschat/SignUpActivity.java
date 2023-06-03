@@ -65,7 +65,8 @@ public class SignUpActivity extends AppCompatActivity {
                                         Users user = new Users(binding.username.getText().toString(), binding.emailId.getText().toString(), binding.password.getText().toString());
                                         String id = Objects.requireNonNull(task.getResult().getUser()).getUid();
                                         database.getReference().child("Users").child(id).setValue(user);
-
+                                        Intent intent = new Intent(SignUpActivity.this,MainActivity.class);
+                                        startActivity(intent);
                                         Toast.makeText(SignUpActivity.this,"Signed Up",Toast.LENGTH_SHORT).show();
                                     }
                                     else

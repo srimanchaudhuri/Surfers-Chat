@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/app_background"
+    android:background="@drawable/purplebackgroundsignin"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".SignUpActivity">
@@ -24,7 +24,7 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_marginBottom="20dp"
-            android:src="@drawable/app_image" />
+            android:src="@drawable/s_icon_circle" />
 
         <EditText
             android:id="@+id/username"
@@ -106,8 +106,7 @@
             android:fontFamily="serif-monospace"
             android:text="Sign Up with Phone"
             android:textColor="@color/black"
-            android:textSize="18sp"
-            android:textStyle="bold" />
+            android:textSize="18sp" />
 
     </LinearLayout>
 
