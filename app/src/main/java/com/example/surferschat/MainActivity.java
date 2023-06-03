@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
+        if(getSupportActionBar()!=null) getSupportActionBar().hide();
 
     }
 
