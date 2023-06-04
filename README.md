@@ -45,6 +45,6 @@ Ta-daa! [looks at where the message was with mock surprise] It's...it's gone!
 
 😂😂 Jokes Apart... The app also contains some features like:-
 
-> Logging in with mobile number.
-> Group Chatting.
-> Settings to customise user profile like profile pictures etc. 
+-> Logging in with mobile number.
+-> Group Chatting.
+-> Settings to customise user profile like profile pictures etc. 
