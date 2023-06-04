@@ -11,9 +11,7 @@ App Icon:
 
 It has a Sign-in and Sign-up screen like these:
 
-![signUp](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/27bf124e-dc13-41d0-91b6-4278f9de7ed6)
-
-![signIn](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/28231ccb-eade-433b-8fc3-3442664cd816)
+![signUp](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/27bf124e-dc13-41d0-91b6-4278f9de7ed6) ![signIn](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/28231ccb-eade-433b-8fc3-3442664cd816)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
