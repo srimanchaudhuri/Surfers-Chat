@@ -1,50 +1,63 @@
-# Surfers-Chat
-It is a social media app for singular and group chatting. Uses firebase Database and made using Android Studio (Java).
+# SurfersChat
 
----------------------------------------------------------------------------------------------------------------------------------------
-
-App Icon:
+SurfersChat is a WhatsApp clone Android application that replicates the popular messaging platform's core features. This app allows users to communicate through text messages, multimedia sharing, and group conversations in real-time.
 
 ![WhatsApp Image 2023-06-05 at 00 58 12](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/4061586a-ddfc-48ca-9737-c181f7534df4)
 
----------------------------------------------------------------------------------------------------------------------------------------
+## Features
 
-It has a Sign-in and Sign-up screen like these:
+- User registration and login functionality.
+- One-to-one messaging between users.
+- Group messaging with multiple participants.
+- Real-time message delivery and read receipts.
+- Image, video, and file-sharing capabilities.
+- User profile customization options.
+- Online/offline status indicators.
+- End-to-end encryption for enhanced security (optional).
+- Push notifications for new messages (optional).
+- Voice and video calling features (optional).
 
-![signUp](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/27bf124e-dc13-41d0-91b6-4278f9de7ed6) ![signIn](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/28231ccb-eade-433b-8fc3-3442664cd816)
+## Installation
 
----------------------------------------------------------------------------------------------------------------------------------------
+To run SurfersChat on your local machine, please follow these steps:
 
-Here the user has to put his/her usrname, password and email for signing up. The user is authenticated using firebse database.
+1. Clone the repository: `git clone https://github.com/srimanchaudhuri/Surfers-Chat.git`
+2. Open the project in Android Studio.
+3. Install the required dependencies and libraries specified in the project.
+4. Set up a Firebase project and enable the necessary services (e.g., Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging) to enable the app's functionality.
+5. Configure the necessary API keys, database URLs, and other required credentials in the project.
+6. Build and run the application on an Android emulator or a physical device.
 
-There is a default Chat section after Signing in shown below:
+## Usage
 
-![mainActivity](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/6fe0d9af-dddd-4a09-a793-2ee05368701f)
+Once you have successfully installed SurfersChat, follow these steps to use the application:
 
----------------------------------------------------------------------------------------------------------------------------------------
+1. Register a new user account or log in using your existing credentials.
+2. Navigate through the app's intuitive interface to access chats, contacts, and settings.
+3. Start a new conversation by selecting a contact or create a group chat by inviting multiple participants.
+4. Exchange messages, share multimedia files, and engage in group conversations.
+5. Customize your user profile and manage your settings as desired.
 
-Lets see what batman is typing...
+## Contributing
 
-<img width="316" alt="Screenshot 2023-06-05 at 12 52 37 AM" src="https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/b2739fec-d683-44e3-b1dd-3116a68923f5">
+Contributions to SurfersChat are always welcome! If you would like to contribute to the project, please follow these guidelines:
 
----------------------------------------------------------------------------------------------------------------------------------------
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature` or `git checkout -b bugfix/your-bugfix`.
+3. Make your modifications and ensure the codebase adheres to the project's coding standards.
+4. Write clear and concise commit messages.
+5. Push your changes to your forked repository.
+6. Submit a pull request, describing your changes and their purpose in detail.
 
-Joker as savage as ever...
 
-Joker: How 'bout a magic trick? [he slams a thumb into the mobile screen, point first] I'm gonna make this message disappear.
+## Acknowledgments
 
-![deleteChatBox](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/180755cb-4a99-42d7-9572-75e469a6d868)
+We would like to express our gratitude to the creators of the original WhatsApp and the open-source community for their inspiration and the libraries used in this project.
 
----------------------------------------------------------------------------------------------------------------------------------------
+## Contact
 
-Ta-daa! [looks at where the message was with mock surprise] It's...it's gone!
+If you have any questions, suggestions, or feedback regarding SurfersChat, please feel free to contact us at [srimanchaudhuri@gmail.com].
 
-![afterDeleted](https://github.com/srimanchaudhuri/Surfers-Chat/assets/106372229/2ee521ed-1dc5-4163-bcf5-a2ee28282907)
+Thank you for using SurfersChat!
 
----------------------------------------------------------------------------------------------------------------------------------------
 
-😂😂 Jokes Apart... The app also contains some features like:-
-
--> Logging in with mobile number.
--> Group Chatting.
--> Settings to customise user profile like profile pictures etc. 
